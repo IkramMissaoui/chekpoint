@@ -1,0 +1,57 @@
+#image{
+    width: 150px;
+    height: 150px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.fa-minus-circle{
+    padding-right: 30px;
+    padding-left:20px;
+    cursor: pointer;
+}
+
+.fa-heart{
+    padding-right: 30px;
+    padding-left: 30px;
+   color: black;
+  cursor: pointer;
+}
+
+#decriment{
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+#incriment{
+    padding-right: 8px;
+    padding-left: 8px;
+    cursor: pointer;
+}
+#qte1,#qte2,#qte3{
+    padding-right: 10px;
+    padding-left: 10px;  
+}
+#name{
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#mnt1,#mnt2,#mnt3{
+    padding-left: 100px; 
+}
+li{list-style: none;
+display: inline-block;}
+ul{display:block;}
+.tot{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(161, 154, 154);
+    color: rgb(51, 48, 46);
+    font-weight: bold;
+}
+#total{
+    padding-left: 30px; 
+    font-weight: bold; 
+}
